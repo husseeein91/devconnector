@@ -1,0 +1,4 @@
+{
+  "mongoURI": "url from mongodb atlas",
+  "jwtSecret": "myfuckingsecrete"
+}
